@@ -1,4 +1,8 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
+```
+name:- k hemanth yadav
+reg :-212224100033
+```
 
 ---
 
